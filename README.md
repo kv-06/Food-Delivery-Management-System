@@ -40,6 +40,9 @@ The Food Delivery Management System is a platform that facilitates users to plac
 ## Contribution
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
+## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
 ## Schema Diagram
 ![Schema](database/schema.png)
 
