@@ -37,8 +37,6 @@ The Food Delivery Management System is a platform that facilitates users to plac
 4. Set up the Oracle SQL database: Import the provided SQL scripts to create necessary tables and data.
 5. Build and run the project in NetBeans.
 
-## Contribution
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 
 ## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
